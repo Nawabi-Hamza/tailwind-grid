@@ -1,6 +1,6 @@
-# Loopstudios Website
+# Grid Website
 
-Loopstudios landing page Tailwind 
+Grid Themplate With Tailwind
 
 ## Usage
 Clone Repo
